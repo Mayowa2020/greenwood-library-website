@@ -1,11 +1,3 @@
-# greenwood-library-website
-Enhancing a Community Library Website
-
-
-Here’s a comprehensive `README.md` file for your Greenwood Community Library website project:
-
----
-
 # Greenwood Community Library Website
 
 The **Greenwood Community Library Website** is a simple website that aims to provide visitors with information about the library, upcoming events, and community book reviews. This project involved enhancing the website by adding a new "Book Reviews" section and updating the "Events" page to reflect upcoming community events. The task was completed by simulating the contributions of two team members, "Morgan" and "Jamie."
@@ -130,10 +122,3 @@ If you would like to contribute to this project:
 3. Commit your changes (`git commit -m "description of your changes"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
-
----
-
-This project was completed as part of a Capstone Project to simulate collaborative web development using Git and GitHub. 
-
----
-
